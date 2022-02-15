@@ -27,7 +27,8 @@
         <div class="col-lg-6 col-md-6 single-footer-widget">
           <h4>Stay In Touch!</h4>
           <p>Sign-up to receive SCORE promotion and announcement emails. <br>Receive 15% Off your next order on ScoreSports.com!</p>
-          <a href="https://scoresports.com/emailsignup" class="genric-btn primary radius">Subscribe</a>
+          <!---<a href="https://scoresports.com/emailsignup" class="genric-btn primary radius">Subscribe</a>--->
+          <div class="klaviyo-form-QQQvBa"></div>
         </div>
       </div>
       <div class="footer-bottom row align-items-center">

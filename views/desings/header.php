@@ -25,6 +25,7 @@ include_once 'views/data-forms/patterns-uniform.php';
 <link rel="shortcut icon" href="assets/logoW.ico">
 <link rel="icon" href="assets/logoW.ico">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-634891-1"></script>
+<script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=J4dKsW"></script>
   <title>SCORE Custom Uniform <?php echo $uniformset ?></title>
   <meta name="apple-mobile-web-app-capable" content="yes" />
 </head>
